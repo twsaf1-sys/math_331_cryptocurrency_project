@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+beautifulsoup4
+lxml
+statsmodels
+openpyxl
+tqdm

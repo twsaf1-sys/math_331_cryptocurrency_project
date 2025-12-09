@@ -1,0 +1,21 @@
+coin,model,release,hashrate,power,algorithm,best_price_text,best_price_usd,profit_text,profit_usd_per_day
+Ethereum Classic,Jasminer X44-P ( 23.4 Gh ) X44-P ( 23.4 Gh ),Jun 2025,23.4 Gh/s,2550 W,EtHash,"$11,200 $479 / Gh",11200.0,$9.86 /day,9.86
+Ethereum Classic,iPollo V2 ( 10 Gh ) V2 ( 10 Gh ),Nov 2024,10 Gh/s,1500 W,EtHash,"$5,800 $580 / Gh",5800.0,$3.23 /day,3.23
+Ethereum Classic,Bombax Miner EZ100-PRO ( 15.5 Gh ) EZ100-PRO ( 15.5 Gh ),Jun 2024,15.5 Gh/s,3100 W,EtHash,"$14,599 $942 / Gh",14599.0,$3.15 /day,3.15
+Ethereum Classic,Bombax Miner EZ100 ( 12.5 Gh ) EZ100 ( 12.5 Gh ),Apr 2024,12.5 Gh/s,2300 W,EtHash,"$10,199 $816 / Gh",10199.0,$3.02 /day,3.02
+Ethereum Classic,iPollo V2H ( 3.4 Gh ) V2H ( 3.4 Gh ),Nov 2024,3.4 Gh/s,475 W,EtHash,"$2,100 $618 / Gh",2100.0,$1.18 /day,1.18
+Ethereum Classic,Bombax Miner EZ100-C ( 3.8 Gh ) EZ100-C ( 3.8 Gh ),May 2024,3.8 Gh/s,760 W,EtHash,"$3,000 $789 / Gh",3000.0,$0.77 /day,0.77
+Ethereum Classic,Bitmain Antminer E11 ( 9.5 Gh ) Antminer E11 ( 9.5 Gh ),Jan 2025,9.5 Gh/s,2470 W,EtHash,"$8,135 €6,999 $856 / Gh",8135.0,$0.56 /day,0.56
+Ethereum Classic,Bitmain Antminer E11 ( 9 Gh ) Antminer E11 ( 9 Gh ),Jan 2025,9 Gh/s,2340 W,EtHash,"$8,135 €6,999 $904 / Gh",8135.0,$0.53 /day,0.53
+Ethereum Classic,iPollo V2X ( 1.2 Gh ) V2X ( 1.2 Gh ),Nov 2024,1.2 Gh/s,165 W,EtHash,$999 $833 / Gh,999.0,$0.42 /day,0.42
+Ethereum Classic,Jasminer X16-Q Pro ( 2.05 Gh ) X16-Q Pro ( 2.05 Gh ),Jun 2024,2.05 Gh/s,520 W,EtHash,"$2,299 $1,121 / Gh",2299.0,$0.15 /day,0.15
+Ethereum Classic,Jasminer X4 BRICK ( 65 Mh ) X4 BRICK ( 65 Mh ),Dec 2021,65 Mh/s,30 W,EtHash,-,,-$0.03 /day,0.03
+Ethereum Classic,Jasminer X16-QE ( 1.75 Gh ) X16-QE ( 1.75 Gh ),Aug 2024,1.75 Gh/s,550 W,EtHash,$650 $371 / Gh,650.0,-$0.12 /day,0.12
+Ethereum Classic,iPollo V1 Mini SE ( 200 Mh ) V1 Mini SE ( 200 Mh ),Aug 2022,200 Mh/s,116 W,EtHash,$199 $1 / Mh,199.0,-$0.14 /day,0.14
+Ethereum Classic,Jasminer X16-Q ( 1.95 Gh ) X16-Q ( 1.95 Gh ),May 2023,1.95 Gh/s,620 W,EtHash,"$1,579 $810 / Gh",1579.0,-$0.16 /day,0.16
+Ethereum Classic,iPollo V1 Mini Classic ( 130 Mh ) V1 Mini Classic ( 130 Mh ),Jun 2022,130 Mh/s,104 W,EtHash,-,,-$0.16 /day,0.16
+Ethereum Classic,Jasminer X4-1U ( 520 Mh ) X4-1U ( 520 Mh ),Nov 2021,520 Mh/s,240 W,EtHash,-,,-$0.22 /day,0.22
+Ethereum Classic,Jasminer X4-QZ ( 840 Mh ) X4-QZ ( 840 Mh ),Mar 2023,840 Mh/s,340 W,EtHash,-,,-$0.24 /day,0.24
+Ethereum Classic,Jasminer X4-C 1U ( 450 Mh ) X4-C 1U ( 450 Mh ),Nov 2021,450 Mh/s,240 W,EtHash,-,,-$0.27 /day,0.27
+Ethereum Classic,iPollo V1 Mini SE Plus ( 400 Mh ) V1 Mini SE Plus ( 400 Mh ),Aug 2022,400 Mh/s,232 W,EtHash,-,,-$0.28 /day,0.28
+Ethereum Classic,iPollo V1 Mini Wifi 280 ( 280 Mh ) V1 Mini Wifi 280 ( 280 Mh ),Apr 2023,280 Mh/s,220 W,EtHash,-,,-$0.34 /day,0.34

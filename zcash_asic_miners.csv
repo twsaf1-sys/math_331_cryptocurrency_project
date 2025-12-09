@@ -1,0 +1,9 @@
+coin,model,release,hashrate,power,algorithm,best_price_text,best_price_usd,profit_text,profit_usd_per_day
+ZCash,Bitmain Antminer Z15 Pro ( 840 kh ) Antminer Z15 Pro ( 840 kh ),Jun 2023,840 kh/s,2780 W,Equihash,"$1,790 $2 / kh",1790.0,$48.76 /day,48.76
+ZCash,Bitmain Antminer Z15 ( 420 kh ) Antminer Z15 ( 420 kh ),Jun 2020,420 kh/s,1510 W,Equihash,"$1,999 $5 / kh",1999.0,$24.09 /day,24.09
+ZCash,Innosilicon A9++ ZMaster ( 140 kh ) A9++ ZMaster ( 140 kh ),May 2019,140 kh/s,1550 W,Equihash,-,,$5.52 /day,5.52
+ZCash,Bitmain Antminer Z11 ( 135 kh ) Antminer Z11 ( 135 kh ),Apr 2019,135 kh/s,1418 W,Equihash,$265 $2 / kh,265.0,$5.51 /day,5.51
+ZCash,Innosilicon A9+ ZMaster ( 120 kh ) A9+ ZMaster ( 120 kh ),Jan 2019,120 kh/s,1550 W,Equihash,-,,$4.20 /day,4.2
+ZCash,Innosilicon A9 ZMaster ( 50 kh ) A9 ZMaster ( 50 kh ),Jun 2018,50 kh/s,620 W,Equihash,-,,$1.81 /day,1.81
+ZCash,Bitmain Antminer Z9 ( 42 kh ) Antminer Z9 ( 42 kh ),Sep 2018,42 kh/s,970 W,Equihash,-,,$0.44 /day,0.44
+ZCash,Bitmain Antminer Z9 Mini ( 10 kh ) Antminer Z9 Mini ( 10 kh ),Jun 2018,10 kh/s,300 W,Equihash,-,,-$0.06 /day,0.06

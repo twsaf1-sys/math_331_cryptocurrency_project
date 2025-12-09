@@ -1,0 +1,21 @@
+coin,model,release,hashrate,power,algorithm,best_price_text,best_price_usd,profit_text,profit_usd_per_day
+Litecoin,Bitmain Antminer L11 Hyd 2U ( 35 Gh ) Antminer L11 Hyd 2U ( 35 Gh ),Dec 2025,35 Gh/s,5775 W,Scrypt,"$16,900 $483 / Gh",16900.0,$11.90 /day,11.9
+Litecoin,Bitmain Antminer L11 Hyd 6U ( 33 Gh ) Antminer L11 Hyd 6U ( 33 Gh ),Dec 2025,33 Gh/s,5676 W,Scrypt,"$9,650 $292 / Gh",9650.0,$10.67 /day,10.67
+Litecoin,Bitmain Antminer L11 Pro ( 21 Gh ) Antminer L11 Pro ( 21 Gh ),Sep 2025,21 Gh/s,3612 W,Scrypt,"$6,382 $304 / Gh",6382.0,$6.79 /day,6.79
+Litecoin,Bitmain Antminer L9 Hyd 2U ( 27 Gh ) Antminer L9 Hyd 2U ( 27 Gh ),Nov 2025,27 Gh/s,5670 W,Scrypt,"$3,900 $144 / Gh",3900.0,$6.26 /day,6.26
+Litecoin,VolcMiner D3 ( 20 Gh ) D3 ( 20 Gh ),Jan 2026,20 Gh/s,3580 W,Scrypt,"$9,297 €7,999 $465 / Gh",9297.0,$6.13 /day,6.13
+Litecoin,Bitmain Antminer L11 ( 20 Gh ) Antminer L11 ( 20 Gh ),Sep 2025,20 Gh/s,3680 W,Scrypt,"$8,450 $423 / Gh",8450.0,$5.89 /day,5.89
+Litecoin,VolcMiner D1 Pro ( 20 Gh ) D1 Pro ( 20 Gh ),Aug 2025,20 Gh/s,3700 W,Scrypt,"$7,999 $400 / Gh",7999.0,$5.84 /day,5.84
+Litecoin,ElphaPex DG2+ ( 20.5 Gh ) DG2+ ( 20.5 Gh ),Jul 2025,20.5 Gh/s,3900 W,Scrypt,"$10,999 $537 / Gh",10999.0,$5.73 /day,5.73
+Litecoin,Bitmain Antminer L9 ( 17 Gh ) Antminer L9 ( 17 Gh ),May 2024,17 Gh/s,3570 W,Scrypt,"$8,251 €7,099 $485 / Gh",8251.0,$3.94 /day,3.94
+Litecoin,VolcMiner D1 Hydro ( 30 Gh ) D1 Hydro ( 30 Gh ),Feb 2025,30 Gh/s,7600 W,Scrypt,"$7,299 $243 / Gh",7299.0,$3.84 /day,3.84
+Litecoin,ElphaPex DG2 ( 18 Gh ) DG2 ( 18 Gh ),Jun 2025,18 Gh/s,3960 W,Scrypt,"$7,896 £6,000 $439 / Gh",7896.0,$3.74 /day,3.74
+Litecoin,Bitmain Antminer L9 ( 16 Gh ) Antminer L9 ( 16 Gh ),May 2024,16 Gh/s,3360 W,Scrypt,"$6,054 £4,600 $378 / Gh",6054.0,$3.71 /day,3.71
+Litecoin,VolcMiner D1 ( 18.5 Gh ) D1 ( 18.5 Gh ),Oct 2024,18.5 Gh/s,4250 W,Scrypt,"$11,450 $619 / Gh",11450.0,$3.42 /day,3.42
+Litecoin,Fluminer L3 ( 9.5 Gh ) L3 ( 9.5 Gh ),Jan 2026,9.5 Gh/s,1700 W,Scrypt,"$3,895 $410 / Gh",3895.0,$2.91 /day,2.91
+Litecoin,VolcMiner D1 ( 16 Gh ) D1 ( 16 Gh ),Aug 2024,16 Gh/s,3725 W,Scrypt,"$7,299 $456 / Gh",7299.0,$2.84 /day,2.84
+Litecoin,VolcMiner D1 Hydro ( 33 Gh ) D1 Hydro ( 33 Gh ),Jun 2025,33 Gh/s,9300 W,Scrypt,"$7,299 $221 / Gh",7299.0,$1.97 /day,1.97
+Litecoin,Fluminer L1 Pro ( 6 Gh ) L1 Pro ( 6 Gh ),Jun 2025,6 Gh/s,1400 W,Scrypt,"$2,850 $475 / Gh",2850.0,$1.06 /day,1.06
+Litecoin,Fluminer L1 ( 5.3 Gh ) L1 ( 5.3 Gh ),Oct 2024,5.3 Gh/s,1200 W,Scrypt,"$2,999 $566 / Gh",2999.0,$1.02 /day,1.02
+Litecoin,ElphaPex DG1+ ( 14 Gh ) DG1+ ( 14 Gh ),Jul 2024,14 Gh/s,3920 W,Scrypt,"$4,799 $343 / Gh",4799.0,$0.90 /day,0.9
+Litecoin,ElphaPex DG2 Mini ( 2.4 Gh ) DG2 Mini ( 2.4 Gh ),Oct 2025,2.4 Gh/s,530 W,Scrypt,$999 $416 / Gh,999.0,$0.49 /day,0.49
