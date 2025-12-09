@@ -1,0 +1,21 @@
+coin,model,release,hashrate,power,algorithm,best_price_text,best_price_usd,profit_text,profit_usd_per_day
+Dash,Bitmain Antminer D9 ( 1.77 Th ) Antminer D9 ( 1.77 Th ),Feb 2023,1.77 Th/s,2839 W,X11,"$1,999 $1,129 / Th",1999.0,$2.05 /day,2.05
+Dash,Baikal Mini Miner ( 150 Mh ) Mini Miner ( 150 Mh ),Sep 2016,150 Mh/s,50 W,X11,-,,-$0.10 /day,0.1
+Dash,Baikal Miner Cube ( 300 Mh ) Miner Cube ( 300 Mh ),Apr 2017,300 Mh/s,90 W,X11,-,,-$0.18 /day,0.18
+Dash,Baikal Quadruple Mini Miner ( 600 Mh ) Quadruple Mini Miner ( 600 Mh ),Aug 2016,600 Mh/s,192 W,X11,-,,-$0.38 /day,0.38
+Dash,Baikal Giant A900 ( 900 Mh ) Giant A900 ( 900 Mh ),Oct 2016,900 Mh/s,270 W,X11,-,,-$0.52 /day,0.52
+Dash,PinIdea DR-3 ( 600 Mh ) DR-3 ( 600 Mh ),Apr 2017,600 Mh/s,345 W,X11,-,,-$0.82 /day,0.82
+Dash,Baikal Giant+ A2000 ( 2 Gh ) Giant+ A2000 ( 2 Gh ),Aug 2017,2 Gh/s,450 W,X11,-,,-$1.02 /day,1.02
+Dash,Bitmain Antminer D7 ( 1.286 Th ) Antminer D7 ( 1.286 Th ),Oct 2021,1.286 Th/s,3148 W,X11,-,,-$1.12 /day,1.12
+Dash,Baikal BK-X ( 10 Gh ) BK-X ( 10 Gh ),Nov 2017,10 Gh/s,630 W,X11,-,,-$1.46 /day,1.46
+Dash,Innosilicon A5 DashMaster ( 32.5 Gh ) A5 DashMaster ( 32.5 Gh ),Oct 2017,32.5 Gh/s,750 W,X11,-,,-$1.64 /day,1.64
+Dash,iBeLink DM22G ( 22 Gh ) DM22G ( 22 Gh ),Sep 2017,22 Gh/s,810 W,X11,-,,-$1.83 /day,1.83
+Dash,iBeLink DM11G ( 10.8 Gh ) DM11G ( 10.8 Gh ),Jul 2017,10.8 Gh/s,810 W,X11,-,,-$1.89 /day,1.89
+Dash,PinIdea DR-100 Pro ( 21 Gh ) DR-100 Pro ( 21 Gh ),Nov 2017,21 Gh/s,900 W,X11,-,,-$2.05 /day,2.05
+Dash,PinIdea DR-100 ( 19 Gh ) DR-100 ( 19 Gh ),Aug 2017,19 Gh/s,900 W,X11,-,,-$2.06 /day,2.06
+Dash,FusionSilicon X7 Miner ( 262 Gh ) X7 Miner ( 262 Gh ),Mar 2019,262 Gh/s,1420 W,X11,-,,-$2.10 /day,2.1
+Dash,Bitmain Antminer D3 ( 15 Gh ) Antminer D3 ( 15 Gh ),Sep 2017,15 Gh/s,1200 W,X11,-,,-$2.80 /day,2.8
+Dash,Baikal BK-G28 ( 28 Gh ) BK-G28 ( 28 Gh ),Oct 2018,28 Gh/s,1300 W,X11,-,,-$2.98 /day,2.98
+Dash,Bitmain Antminer D3 ( 17.5 Gh ) Antminer D3 ( 17.5 Gh ),Oct 2017,17.5 Gh/s,1280 W,X11,-,,-$2.98 /day,2.98
+Dash,StrongU STU-U6 ( 440 Gh ) STU-U6 ( 440 Gh ),Nov 2019,440 Gh/s,2200 W,X11,-,,-$3.08 /day,3.08
+Dash,Bitmain Antminer D3 ( 19.3 Gh ) Antminer D3 ( 19.3 Gh ),Oct 2017,19.3 Gh/s,1350 W,X11,-,,-$3.14 /day,3.14

@@ -1,0 +1,21 @@
+coin,model,release,hashrate,power,algorithm,best_price_text,best_price_usd,profit_text,profit_usd_per_day
+Bitcoin,Bitmain Antminer S23 Hyd 3U ( 1.16 Ph ) Antminer S23 Hyd 3U ( 1.16 Ph ),Jan 2026,1.16 Ph/s,11020 W,SHA-256,"$7,800 $6,724 / Ph",7800.0,$19.37 /day,19.37
+Bitcoin,Bitmain Antminer S23 Hyd ( 580 Th ) Antminer S23 Hyd ( 580 Th ),Jan 2026,580 Th/s,5510 W,SHA-256,"$5,000 $9 / Th",5000.0,$9.69 /day,9.69
+Bitcoin,Bitmain Antminer S21e XP Hyd 3U ( 860 Th ) Antminer S21e XP Hyd 3U ( 860 Th ),Jan 2025,860 Th/s,11180 W,SHA-256,"$20,398 £15,500 $24 / Th",20398.0,$7.14 /day,7.14
+Bitcoin,Bitmain Antminer S21 XP+ Hyd ( 500 Th ) Antminer S21 XP+ Hyd ( 500 Th ),Jul 2025,500 Th/s,5500 W,SHA-256,"$2,700 $5 / Th",2700.0,$6.55 /day,6.55
+Bitcoin,Bitdeer SealMiner A3 Pro Hydro ( 660 Th ) SealMiner A3 Pro Hydro ( 660 Th ),Sep 2025,660 Th/s,8250 W,SHA-256,"$7,249 $11 / Th",7249.0,$6.27 /day,6.27
+Bitcoin,Bitmain Antminer S21 XP Hyd ( 473 Th ) Antminer S21 XP Hyd ( 473 Th ),Nov 2024,473 Th/s,5676 W,SHA-256,"$9,959 $21 / Th",9959.0,$5.06 /day,5.06
+Bitcoin,Bitmain Antminer S23 Imm. ( 442 Th ) Antminer S23 Imm. ( 442 Th ),Jan 2026,442 Th/s,5304 W,SHA-256,"$7,900 $18 / Th",7900.0,$4.73 /day,4.73
+Bitcoin,Bitmain Antminer S23 ( 318 Th ) Antminer S23 ( 318 Th ),Jan 2026,318 Th/s,3498 W,SHA-256,"$4,999 $16 / Th",4999.0,$4.17 /day,4.17
+Bitcoin,Bitmain Antminer S21e XP Hyd ( 430 Th ) Antminer S21e XP Hyd ( 430 Th ),Nov 2024,430 Th/s,5590 W,SHA-256,"$11,200 $26 / Th",11200.0,$3.57 /day,3.57
+Bitcoin,Proto Rig ( 819 Th ) Rig ( 819 Th ),Sep 2025,819 Th/s,12000 W,SHA-256,"$4,490 $5 / Th",4490.0,$3.55 /day,3.55
+Bitcoin,Bitdeer SealMiner A3 Hydro ( 500 Th ) SealMiner A3 Hydro ( 500 Th ),Sep 2025,500 Th/s,6750 W,SHA-256,"$8,516 €7,327 $17 / Th",8516.0,$3.55 /day,3.55
+Bitcoin,Bitdeer SealMiner A3 Pro Air ( 290 Th ) SealMiner A3 Pro Air ( 290 Th ),Sep 2025,290 Th/s,3625 W,SHA-256,"$5,800 $20 / Th",5800.0,$2.75 /day,2.75
+Bitcoin,Canaan Avalon A16XP-300T ( 300 Th ) Avalon A16XP-300T ( 300 Th ),Apr 2026,300 Th/s,3850 W,SHA-256,"$4,200 $14 / Th",4200.0,$2.61 /day,2.61
+Bitcoin,Bitmain Antminer S21 XP Imm. ( 300 Th ) Antminer S21 XP Imm. ( 300 Th ),Sep 2024,300 Th/s,4050 W,SHA-256,"$6,360 $21 / Th",6360.0,$2.13 /day,2.13
+Bitcoin,Bitmain Antminer S21 XP ( 270 Th ) Antminer S21 XP ( 270 Th ),Sep 2024,270 Th/s,3645 W,SHA-256,"$4,450 $16 / Th",4450.0,$1.92 /day,1.92
+Bitcoin,Bitdeer SealMiner A2 Pro Hyd ( 500 Th ) SealMiner A2 Pro Hyd ( 500 Th ),Mar 2025,500 Th/s,7450 W,SHA-256,"$7,099 $14 / Th",7099.0,$1.87 /day,1.87
+Bitcoin,Canaan Avalon A16-282T ( 282 Th ) Avalon A16-282T ( 282 Th ),Mar 2026,282 Th/s,3900 W,SHA-256,"$4,230 $15 / Th",4230.0,$1.78 /day,1.78
+Bitcoin,Bitdeer SealMiner A3 Air ( 260 Th ) SealMiner A3 Air ( 260 Th ),Sep 2025,260 Th/s,3640 W,SHA-256,"$3,999 $15 / Th",3999.0,$1.53 /day,1.53
+Bitcoin,Bitmain Antminer S21+ Hyd ( 358 Th ) Antminer S21+ Hyd ( 358 Th ),Aug 2025,358 Th/s,5370 W,SHA-256,"$4,722 €4,063 $13 / Th",4722.0,$1.25 /day,1.25
+Bitcoin,Bitmain Antminer S21+ Hyd ( 319 Th ) Antminer S21+ Hyd ( 319 Th ),Feb 2025,319 Th/s,4785 W,SHA-256,"$5,767 $18 / Th",5767.0,$1.12 /day,1.12
